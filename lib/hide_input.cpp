@@ -1,3 +1,5 @@
+/* MIT License Copyright (c) 2018 Philip Mayer*/
+
 #include <iostream>
 #include <termios.h>
 #include <unistd.h>

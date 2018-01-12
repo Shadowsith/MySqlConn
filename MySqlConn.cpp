@@ -1,3 +1,5 @@
+/* MIT License Copyright (c) 2018 Philip Mayer */
+
 #include "MySqlConn.h"
 #include "lib/hide_input.h"
 

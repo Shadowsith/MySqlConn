@@ -1,3 +1,5 @@
+/* MIT License Copyright (c) 2018 Philip Mayer*/
+
 #ifndef MYSQLCONN_H
 #define MYSQLCONN_H
 
